@@ -1,0 +1,105 @@
+
+/*
+h1{
+  padding:15px;
+}
+
+h2{
+  text-align: center;
+  padding: 10px;
+  color: #08607b;
+}
+
+h5{
+  text-align: center;
+  padding: 10px;
+  color: #08607b;
+}
+
+body{
+  background-color: #face9f;
+  margin: 10px 150px 20px
+
+}
+
+p{
+  text-align: center;
+}
+
+.carousel{
+  width: 100%;
+  padding-top: 15px;
+}
+
+.slide-label{
+  color: white;
+}
+
+.col{
+  padding-top: 15px;
+}
+
+.nav{
+  background-color: #f7898a;
+  /* color: white; */
+}
+
+.nav-link{
+  color: white;
+}
+
+.borderr{
+  border-style: solid;
+  border-color: #75c9e3;
+  background-color: #fceee0;
+}
+
+.col1{
+  text-align: center;
+}
+
+/* Contact info paragraph */
+.col2{
+  border-style: solid;
+  border-width:5px;
+}
+/* Amenities background */
+.amen{
+  background: url(images/background.png);
+  color: white;
+}
+
+.amenTitle{
+  color: white;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #b8e7ca;
+   color: black;
+   text-align: center;
+}
+
+footer{
+  padding: 15px;
+}
+
+@media screen and (max-width: 1096px) {
+  body{
+    margin: 10px 150px 20px
+  }
+}
+
+@media screen and (max-width: 737px) {
+  body{
+    margin: 10px 80px 20px
+  }
+}
+
+@media screen and (max-width: 586px) {
+  .carousel{
+    display: none;
+  }
+}
